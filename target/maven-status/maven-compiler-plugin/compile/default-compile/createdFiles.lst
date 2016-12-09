@@ -1,0 +1,8 @@
+com\ekiras\repository\PersonRepository.class
+com\ekiras\config\AppConfiguration.class
+com\ekiras\service\PersonService.class
+com\ekiras\controller\PersonController.class
+com\ekiras\dao\PersonDAO.class
+com\ekiras\Application.class
+com\ekiras\ServletInitializer.class
+com\ekiras\domain\Person.class
